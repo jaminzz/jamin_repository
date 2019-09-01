@@ -1,5 +1,13 @@
 hello my name is jamin
+<<<<<<< HEAD
 123456
 faffa 
 fjaifka
 jiamin:w
+=======
+<<<<<<< HEAD
+123334
+fajifa:
+jiafjig 
+jifajif
+>>>>>>> 75be261e4941da7f74be87fcd02d2886c1d03cd7
